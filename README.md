@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I’m a Mathematical Finance MSc student at Brunel University London, driven by a deep curiosity about how mathematics, markets, and machine intelligence intersect. My focus lies in systematic and quantitative trading, where I design, backtest, and refine rule-based trading systems grounded in statistical logic and real market behavior.<br><br>My background combines ICT-style discretionary trading on indices (notably NASDAQ) with quantitative research and algorithmic development — bridging intuition from market structure with rigorous data-driven modeling. I’m currently building and validating systematic strategies that integrate statistical arbitrage, time-series modeling, and machine learning for signal extraction and risk control.<br><br>Technically, I work extensively in Python, using tools like NumPy, pandas, scikit-learn, PyTorch, and backtrader, alongside frameworks for data engineering, Monte Carlo simulation, and execution backtesting. My projects focus on transforming raw data into robust, testable trading logic, with a strong emphasis on performance metrics, regime adaptation, and model explainability.<br><br>I’m actively seeking quantitative research or trading internships and junior roles in London, where I can contribute to systematic strategy development, portfolio optimization, and risk modeling.<br>My GitHub showcases projects that reflect both my academic foundation and my practical experimentation with live market data — from feature engineering pipelines to algorithmic execution modules.<br><br>When I’m not coding or analyzing markets, I enjoy exploring new alpha ideas, automating trading workflows, and dissecting market microstructure to better understand how liquidity, volatility, and behavior shape opportunity.
 
-<!--
-**30nawm/30nawm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sina-zahmatkeshan-a441b9239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinazahmatkeshan@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=30nawm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=30nawm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=30nawm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=30nawm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
